@@ -12,7 +12,17 @@
         "items": [
           {
             "text": "Welcome",
-            "link": "hdoc-library\\index"
+            "link": "hdoc-library/index"
+          }
+        ]
+      },
+      {
+        "text": "Agreements",
+        "expand": true,
+        "items": [
+          {
+            "text": "Contributing - Code of Conduct",
+            "link": "hdoc-library/agreements/code-of-conduct"
           }
         ]
       }
