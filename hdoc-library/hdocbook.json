@@ -1,0 +1,21 @@
+{
+  "docId": "hdoc-library",
+  "title": "Hornbill Docs Shared Content Library",
+  "description": "A library of shared/reusable HDocBook content",
+  "publicSource": "--publicSource--",
+  "version": "0.0.1",
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "hdoc-library\\index"
+          }
+        ]
+      }
+    ]
+  }
+}
